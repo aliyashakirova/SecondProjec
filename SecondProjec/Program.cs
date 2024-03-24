@@ -5,3 +5,6 @@ Console.WriteLine("Hello, World!123"); // sdfsdfsdfsdf
 
 
 Console.WriteLine("Hello, World!");
+
+string text = Console.ReadLine();
+Console.WriteLine(text);
